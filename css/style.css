@@ -61,7 +61,7 @@ footer{
   padding-top: 30px;
   padding-bottom: 0px;
   width: 100%;
-  position: relative;
+  position: static;
 }
 
 .skip a{
